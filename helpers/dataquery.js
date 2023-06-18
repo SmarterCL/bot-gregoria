@@ -3,10 +3,10 @@ const mysql = require('mysql2/promise');
 
 const createConnection = async () =>{
 return await mysql.createConnection({
-    host: '162.240.101.28',
-    user: 'wwmoun_gregoria',
+    host: 'gcam1058.siteground.biz',
+    user: 'uuphi4gs1begi',
     password:'Catedral1402',
-    database: 'wwmoun_gregoria'
+    database: 'dbygmmj1e2h9py'
 });
 }
 
